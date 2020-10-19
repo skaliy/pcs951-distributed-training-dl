@@ -1,1 +1,1 @@
-# pcs951-distributed-training-dl
+# Distributed training with Horovod vs custom Docker containers
